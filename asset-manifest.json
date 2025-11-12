@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Recept01.git/static/css/main.5d413f9f.css",
-    "main.js": "/Recept01.git/static/js/main.bf0903ab.js",
-    "static/media/Borstjt_1.jpeg": "/Recept01.git/static/media/Borstjt_1.f67968bad764ced6bd47.jpeg",
-    "static/media/Borsjtj_4.jpg": "/Recept01.git/static/media/Borsjtj_4.a5e785494e1b59325a60.jpg",
-    "static/media/Borsjtj_5.avif": "/Recept01.git/static/media/Borsjtj_5.91f6842ecc95849cd16e.avif",
-    "index.html": "/Recept01.git/index.html",
-    "main.5d413f9f.css.map": "/Recept01.git/static/css/main.5d413f9f.css.map",
-    "main.bf0903ab.js.map": "/Recept01.git/static/js/main.bf0903ab.js.map"
+    "main.css": "/Recept01/static/css/main.5d413f9f.css",
+    "main.js": "/Recept01/static/js/main.bddfcc28.js",
+    "static/media/Borstjt_1.jpeg": "/Recept01/static/media/Borstjt_1.f67968bad764ced6bd47.jpeg",
+    "static/media/Borsjtj_4.jpg": "/Recept01/static/media/Borsjtj_4.a5e785494e1b59325a60.jpg",
+    "static/media/Borsjtj_5.avif": "/Recept01/static/media/Borsjtj_5.91f6842ecc95849cd16e.avif",
+    "index.html": "/Recept01/index.html",
+    "main.5d413f9f.css.map": "/Recept01/static/css/main.5d413f9f.css.map",
+    "main.bddfcc28.js.map": "/Recept01/static/js/main.bddfcc28.js.map"
   },
   "entrypoints": [
     "static/css/main.5d413f9f.css",
-    "static/js/main.bf0903ab.js"
+    "static/js/main.bddfcc28.js"
   ]
 }
